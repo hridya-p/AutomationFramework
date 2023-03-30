@@ -102,6 +102,5 @@ public class ChcekAction extends Settings {
         Subpage z= new Subpage();
         z.download.click();
 
-
     }
 }
